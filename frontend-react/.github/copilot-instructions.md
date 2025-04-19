@@ -1,0 +1,3 @@
+<!-- Use this file to provide workspace-specific custom instructions to Copilot. For more details, visit https://code.visualstudio.com/docs/copilot/copilot-customization#_use-a-githubcopilotinstructionsmd-file -->
+
+This is a React + TypeScript project for a modern booking platform. Pages: Home (About Us), Locations, Booking, Admin Portal. Use functional components, React Router, and modern CSS. Keep UI clean and beautiful.
